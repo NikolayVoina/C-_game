@@ -1,0 +1,6 @@
+C:/Users/Lenovo/CLionProjects/Labirint/cmake-build-debug/CMakeFiles/Game.dir
+C:/Users/Lenovo/CLionProjects/Labirint/cmake-build-debug/CMakeFiles/Player.dir
+C:/Users/Lenovo/CLionProjects/Labirint/cmake-build-debug/CMakeFiles/Labirint1.dir
+C:/Users/Lenovo/CLionProjects/Labirint/cmake-build-debug/CMakeFiles/Labirint.dir
+C:/Users/Lenovo/CLionProjects/Labirint/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/CLionProjects/Labirint/cmake-build-debug/CMakeFiles/rebuild_cache.dir
